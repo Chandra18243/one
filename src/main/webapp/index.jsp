@@ -68,7 +68,8 @@
     </nav>
     <section>
         <h2>Welcome to My Website!</h2>
-        <p>This is a small website created using by chandu</p>
+        <p>This is a small website created using by chandu using HTML</p>
+        <p>This is my 1st Jenkins CI/CD Project</p>
     </section>
     <footer>
         <p>&copy; 2024 My Small Website. All rights reserved.</p>
