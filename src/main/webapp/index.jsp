@@ -72,7 +72,7 @@
         <p>This is my 1st Jenkins CI/CD Project</p>
     </section>
     <footer>
-        <p>Contact:8688887360 & Email:chachinalubola3239@gmial.com</p>
+        <p>Contact:8688887360 & Email:chachinalubola3239@gmail.com</p>
         <p>&copy; 2024 My Small Website. All rights reserved.</p>
     </footer>
 </body>
